@@ -1,6 +1,6 @@
 //some sample data
 const guestData = [
-    { email: "asiemer@hotmail.com", firstname: "Andy", lastname: "Siemer", notes: "hey there" }
+    { email: "glzdiego12@gmail.com", firstname: "Diego", lastname: "Gonzalez", notes: "Hello World" }
  ];
  
  //the database reference
